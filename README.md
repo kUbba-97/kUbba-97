@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating delightful web experiences since 2022<br>📚 Currently mastering: JavaScript & Vue.js<br>🎯 Goal: Build modern, scalable front-end apps with clean UI & smart logic<br>🎲 Fun fact: I treat every bug as a hidden feature waiting to shine 🚀</p>
+<p align="left">✨ Creating delightful web experiences since 2021<br>📚 Currently mastering: JavaScript & Vue.js<br>🎯 Goal: Build modern, scalable front-end apps with clean UI & smart logic<br>🎲 Fun fact: I treat every bug as a hidden feature waiting to shine 🚀</p>
 
 ###
 
@@ -55,6 +55,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kUbba-97/kUbba-97/output/snake.svg" alt="Snake animation" />
 
 ###
 
