@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating delightful web experiences since 2021<br>📚 Currently mastering: JavaScript & Vue.js<br>🎯 Goal: Build modern, scalable front-end apps with clean UI & smart logic<br>🎲 Fun fact: I treat every bug as a hidden feature waiting to shine 🚀</p>
+<p align="left">✨ Creating delightful web experiences since 2022<br>📚 Currently mastering: JavaScript & Vue.js<br>🎯 Goal: Build modern, scalable front-end apps with clean UI & smart logic<br>🎲 Fun fact: I treat every bug as a hidden feature waiting to shine 🚀</p>
 
 ###
 
