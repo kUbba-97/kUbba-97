@@ -14,13 +14,15 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: kUbba-97   # ← غيّرها إلى اسمك بالضبط في GitHub
+          github_user_name: kUbba-97   # ← غيّرها لاسم حسابك بالضبط
           outputs: |
             dist/snake.svg
+
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "🐍 Generate Snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
